@@ -1,11 +1,9 @@
 Velociraptor: node backend for the cycle-o-maniacs apps
 =======================================================
-[![GitHub version](https://badge.fury.io/gh/cleverstack%2Fnode-seed.png)](http://badge.fury.io/gh/cleverstack%2Fnode-seed) [![Dependency Status](https://david-dm.org/CleverStack/node-seed.png)](https://david-dm.org/CleverStack/node-seed) [![devDependency Status](https://david-dm.org/CleverStack/node-seed/dev-status.png)](https://david-dm.org/CleverStack/node-seed#info=devDependencies) [![Code Climate](https://codeclimate.com/github/CleverStack/node-seed.png)](https://codeclimate.com/github/CleverStack/node-seed) 
-[![Build Status](https://secure.travis-ci.org/CleverStack/node-seed.png?branch=master)](https://travis-ci.org/CleverStack/node-seed) 
-[![Coverage](https://codeclimate.com/github/CleverStack/node-seed/coverage.png)](https://codeclimate.com/github/CleverStack/node-seed) 
+[![GitHub version](https://badge.fury.io/gh/MihaiBalint%2Fvelociraptor.png)](http://badge.fury.io/gh/MihaiBalint%2Fvelociraptor) [![Dependency Status](https://david-dm.org/MihaiBalint/velociraptor.png)](https://david-dm.org/MihaiBalint/velociraptor) [![devDependency Status](https://david-dm.org/MihaiBalint/velociraptor/dev-status.png)](https://david-dm.org/MihaiBalint/velociraptor#info=devDependencies) [![Code Climate](https://codeclimate.com/github/MihaiBalint/velociraptor.png)](https://codeclimate.com/github/MihaiBalint/velociraptor) 
+[![Build Status](https://secure.travis-ci.org/MihaiBalint/velociraptor.png?branch=master)](https://travis-ci.org/MihaiBalint/velociraptor) 
+[![Coverage](https://codeclimate.com/github/MihaiBalint/velociraptor/coverage.png)](https://codeclimate.com/github/MihaiBalint/velociraptor) 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) 
-
-![CleverStack Node Seed](http://cleverstack.github.io/assets/img/logos/node-seed-logo-clean.png "CleverStack Node Seed")
 
 <blockquote>
 Implements persistence and stuff for the cycle-o-maniacs HackTM project. Based on the CleverStack Node backend Seed.
@@ -23,7 +21,7 @@ Implements persistence and stuff for the cycle-o-maniacs HackTM project. Based o
 
 ## Documentation
 
-MIA
+[Directory structure](http://cleverstack.io/documentation/backend/#directory-structure)
 
 ## Install
 
