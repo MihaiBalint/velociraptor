@@ -6,7 +6,7 @@ Velociraptor: node backend for the cycle-o-maniacs apps
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) 
 
 <blockquote>
-Implements persistence and stuff for the cycle-o-maniacs HackTM project. Based on the CleverStack Node backend Seed.
+Implements persistence and backend stuff for the cycle-o-maniacs HackTM project. Based on the CleverStack Node backend Seed.
 </blockquote>
 
 ## Some Highlights
