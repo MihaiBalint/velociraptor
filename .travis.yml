@@ -14,9 +14,11 @@ script:
 
 notifications:
   email:
-    - cleverstack@github.com
-  irc:
-    - "chat.freenode.net#cleverstack"
+    - nailuii@gmail.com
+  slack:
+    rooms:
+      - cycle-o-maniacs:J9kpzC3EigEPmGTslJ5BP3jU#general
+      - cycle-o-maniacs:J9kpzC3EigEPmGTslJ5BP3jU#random
 
 env:
   - NODE_ENV=test; NODE_PATH=./lib/:./modules/
@@ -24,11 +26,8 @@ env:
 language: node_js
 
 node_js:
-  - '0.10'
-  - '0.11'
-  - '0.12'
-  - '5.0'
   - '6.0'
+  - '7'
 
 branches:
   only:
