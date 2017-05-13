@@ -1,0 +1,8 @@
+const path = require('path');
+
+module.exports = {
+  "config": path.resolve('./velociraptor', 'velodb.json'),
+  "models-path": path.resolve('./velociraptor/models'),
+  "seeders-path": path.resolve('./velociraptor/seeders'),
+  "migrations-path": path.resolve('./velociraptor/migrations')
+};

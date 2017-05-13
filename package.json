@@ -22,7 +22,8 @@
     "url": "https://github.com/MihaiBalint/velociraptor/issues"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "nodemon bin/velo",
+    "start:dev": "nodemon bin/velo",
     "setup": "echo 'TODO'",
     "test": "echo 'TODO'"
   },
@@ -31,9 +32,16 @@
     "npm": ">=1.4"
   },
   "dependencies": {
-    "express": "^4.15.2"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "pg": "^6.1.5",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.30.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
   "keywords": [
     "Velociraptor",
     "yet-another-mean-project"

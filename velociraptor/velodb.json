@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "velodb",
+        "password": "velodb",
+        "database": "velodb_dev",
+        "host": "127.0.0.1",
+        "dialect": "postgres",
+        "port": 5432
+    },
+    "test": {
+        "username": "velodb",
+        "password": "velodb",
+        "database": "velodb_dev",
+        "host": "127.0.0.1",
+        "dialect": "postgres",
+        "port": 5432
+    },
+    "production": {
+        "username": "velodb",
+        "password": "velodb",
+        "database": "velodb",
+        "host": "127.0.0.1",
+        "dialect": "postgres",
+        "port": 5432
+    }
+}
