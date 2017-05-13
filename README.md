@@ -5,7 +5,7 @@ Velociraptor: node backend for the cycle-o-maniacs apps
 [![Coverage](https://codeclimate.com/github/MihaiBalint/velociraptor/coverage.png)](https://codeclimate.com/github/MihaiBalint/velociraptor)
 
 <blockquote>
-Implements persistence and stuff for the cycle-o-maniacs HackTM project. Based on the CleverStack Node backend Seed.
+Implements persistence and backend stuff for the cycle-o-maniacs HackTM project. Based on the CleverStack Node backend Seed.
 </blockquote>
 
 ## Some Highlights

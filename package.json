@@ -1,26 +1,25 @@
 {
   "private": true,
-  "name": "node-seed",
-  "description": "Cleverstack Node-Seed",
+  "name": "velociraptor",
+  "description": "Velociraptor: cycle-o-maniacs backend system",
   "version": "1.2.2",
   "license": "MIT",
   "main": "cluster",
   "author": {
-    "name": "CleverStack",
-    "email": "admin@cleverstack.io",
-    "web": "http://cleverstack.io"
+    "name": "cycle-o-maniacs",
+    "email": "admin@birdseye.space",
+    "web": "http://birdseye.space/cycle-o-maniacs"
   },
   "collaborators": [
-    "Richard Gustin <richard.gustin86@gmail.com>",
-    "Daniel Young <young.daniel88@gmail.com>",
-    "Leandro Ostera <leostera@gmail.com>"
+    "Mihai Balint <nailuii@gmail.com>",
+    "Add your name here <your.name@example.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/cleverstack/node-seed.git"
+    "url": "git://github.com/MihaiBalint/velociraptor.git"
   },
   "bugs": {
-    "url": "https://github.com/cleverstack/node-seed/issues"
+    "url": "https://github.com/MihaiBalint/velociraptor/issues"
   },
   "scripts": {
     "start": "grunt",
